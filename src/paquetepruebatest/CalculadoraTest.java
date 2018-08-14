@@ -8,8 +8,6 @@ import paqueteprueba.Calculadora;
 
 class CalculadoraTest {
 
-	
-
 	@Test
 	public void testSumar() {
 		Calculadora calculadoraDePrueba = new Calculadora();
